@@ -19,4 +19,4 @@ Create an agent-based model simulating the bystander effect as observed in real-
 ***
 Data Science Capstone Project 
 
-Agent-Based Modeling Final Project
+Agent-Based Modeling Final Project (Spring 2022)
