@@ -18,7 +18,8 @@ The model uses data from violent incidents captured on CCTV in Copenhagen, Denma
 
 
 
-***
+##  
+
 Data Science Capstone Project 
 
 Agent-Based Modeling Final Project (Spring 2022)
