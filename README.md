@@ -4,6 +4,8 @@ Project Goal:
 
 Create an agent-based model simulating the bystander effect as observed in real-life situations to be a visual representation of how the individual reactions of bystanders influence the magnitude of the bystander effect.
 
+The model uses data from violent incidents captured on CCTV in Copenhagen, Denmark, to show what percentage of bystanders intervene, each intervener’s demographic information, and details about the environment. The data is accessed from two CSV files, and users can specify the number of bystanders present. 
+
 
 <!--Key Patterns: 
 
