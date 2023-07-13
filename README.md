@@ -6,6 +6,7 @@ Create an agent-based model simulating the bystander effect as observed in real-
 
 The model uses data from violent incidents captured on CCTV in Copenhagen, Denmark, to show what percentage of bystanders intervene, each intervener’s demographic information, and details about the environment. The data is accessed from two CSV files, and users can specify the number of bystanders present. 
 
+![Model Interface](https://github.com/meglin234/bystander-effect-model/blob/main/model_interface.png?raw=true "Model Interface")
 
 <!--Key Patterns: 
 
